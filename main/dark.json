@@ -1,0 +1,12 @@
+{
+    "dark_theme": {
+        "primary_color": "#282828",
+        "secondary_color": "#383838",
+        "tertiary_color": "#585858",
+        "quaternary_color": "#b8b8b8",
+        "primary_text_color": "#ffffff",
+        "secondary_text_color": "#ffffff",
+        "tertiary_text_color": "#ffffff",
+        "quaternary_text_color": "#000000"
+    }
+}

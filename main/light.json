@@ -1,0 +1,12 @@
+{
+    "light_theme": {
+        "primary_color": "#ffffff",
+        "secondary_color": "#f0f0f0",
+        "tertiary_color": "#d0d0d0",
+        "quaternary_color": "#b0b0b0",
+        "primary_text_color": "#000000",
+        "secondary_text_color": "#000000",
+        "tertiary_text_color": "#000000",
+        "quaternary_text_color": "#ffffff"
+    }
+}
