@@ -1,5 +1,3 @@
-## YouTube mp4 mp3 Downolader
-
 ![Alt text](images/YouTube-Downloader-removebg-preview.png)
 ![Static Badge](https://img.shields.io/badge/last_commit-may_2024-blue)
 
