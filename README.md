@@ -9,7 +9,7 @@
 
 **Windows**
 
-All you need is the "YouTube Downloder.exe" file to run the software
+All you need is the "YouTube-Downloder.exe" file to run the software
 
 **Linux**
 
@@ -20,7 +20,7 @@ git clone https://github.com/VenisBeqiri/Youtube-Downloader.git
 
 cd /path/to/directory/YouTube-Downloader
 
-wine "YouTube Downloader.exe"    
+wine "YouTube-Downloader.exe"    
 ```
 **OR**
 ```
