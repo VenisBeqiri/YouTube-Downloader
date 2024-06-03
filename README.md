@@ -28,7 +28,7 @@ git clone https://github.com/VenisBeqiri/Youtube-Downloader.git
 
 cd /path/to/directory/YouTube-Downloader/main
 
-python main.py
+python Main.py
 ```
 ## Contributing
 
